@@ -1,6 +1,6 @@
 {
-    "mean_iou": 0.41006483796434673,
-    "mean_accuracy": 0.5444512143253953,
-    "overall_accuracy": 0.7772612223859143,
-    "metrics_dice": 0.7473201155662537
+    "mean_iou": 0.4100645731424512,
+    "mean_accuracy": 0.5444509090193671,
+    "overall_accuracy": 0.7772611401620861,
+    "metrics_dice": 0.7473199963569641
 }
